@@ -1,0 +1,13 @@
+# Executables
+analyzer.exe
+generator.exe
+*.exe
+
+# Large generated data
+data/big_logs.txt
+
+# Object files
+*.o
+
+# VS Code settings
+.vscode/
